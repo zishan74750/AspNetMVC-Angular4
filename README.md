@@ -11,7 +11,7 @@ If you want to use ASP.NET MVC with Angular 4, you can start with this template.
 
 # Tool Bag
 
-Visual Studio Community 2015 Update 3
-TypeScript 2.7.1.0
-Node v8.9.1
+Visual Studio Community 2015 Update 3 <br />
+TypeScript 2.7.1.0 <br />
+Node v8.9.1 <br />
 NPM 5.5.1

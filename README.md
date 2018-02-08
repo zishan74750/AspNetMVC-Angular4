@@ -4,9 +4,9 @@ If you want to use ASP.NET MVC with Angular 4, you can start with this template.
 
 # Steps
  
--Clone project
--Open it
--Click right to package.json file and Restore Packages
+-Clone project <br />
+-Open it <br />
+-Click right to package.json file and Restore Packages <br />
 -Run! 
 
 # Tool Bag
